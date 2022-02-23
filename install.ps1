@@ -13,10 +13,11 @@ scoop install posh-git
 
 # Webブラウザ
 scoop install googlechrome
+scoop install vivaldi
 
 # エディタ
 scoop install vscode
-scoop install neovim
+scoop install neovim-nightly
 
 # ユーティリティ
 scoop install 7zip
